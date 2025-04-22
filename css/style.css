@@ -1,0 +1,74 @@
+h1{
+    font-family: Arial;
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+}
+
+i{
+    color: white
+}
+
+b{
+    color: red;
+    font-family: Arial;
+}
+
+span{
+    background-color: red;
+}
+
+h2{
+    font-family: Arial;
+}
+
+p{
+ font-family: Geneva;
+}
+
+.Web-header{
+    background-color: rgb(43, 42, 42);
+    color: white;
+    text-align: center;
+}
+
+div{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.reflection{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+img{
+    width: 300px;
+    display: inline-block;
+
+}
+
+.Logo{
+    width: 150px;
+}
+
+ul{
+    font-family: Geneva;
+    display: inline-block;
+    text-align: left;
+    margin-left: 250px;
+}
+
+.Dance{
+    border: ridge rgb(255, 0, 0);
+}
+
+.Karaoke{
+    border: ridge rgb(255, 0, 0);
+}
