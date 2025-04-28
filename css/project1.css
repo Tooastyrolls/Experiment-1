@@ -1,0 +1,104 @@
+@font-face{
+    src: url("../assets/fonts/another-america/Another\ America.otf");
+    font-family: another;
+}
+
+h1{
+    font-family: Arial;
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+}
+
+i{
+    color: aliceblue;
+}
+
+span{
+    background-color: red;
+    font-family: another;
+    font-size: xx-large;
+}
+
+h2{
+    font-family: another;
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+}
+
+p{
+ font-family: geneva;
+ display: inline;
+}
+
+.Web-header{
+    background-color: rgb(43, 42, 42);
+    color: white;
+    width: 60vh;
+    position: absolute;
+    right: 10%;
+    top: 20%;
+    opacity: 40%;
+    
+}
+
+.reflection{
+    background: #4d0000;
+    background: linear-gradient(90deg, rgba(77, 0, 0, 1) 0%, rgba(253, 29, 29, 1) 31%, rgba(15, 15, 15, 1) 100%);
+    color: rgb(204, 38, 5);
+    text-align: right;
+    font-size: xx-small;
+}
+
+.Logo{
+    width: 450px;
+    position: absolute;
+    left: 20%;
+    bottom: 32%;
+    opacity: 67%;
+}
+
+.ballerina{
+    position: absolute;
+    top: 60%;
+    left: 1%;
+    color: aquamarine;
+}
+
+.notes{
+  position: absolute;
+  top: 1%;
+  left: 38%;
+}
+
+.dance{
+   position: absolute;
+   font-family: arial;
+   text-align: right;
+   right: 1%;
+   font-size: large;
+}
+
+.karaoke{
+    border: 1vh dashed white;
+    padding-left: 45vw;
+}
+
+.karaoke2{
+    position: absolute;
+    top: 40vw;
+    right: 40vw;
+    opacity: 80%;
+}
+
+.karaoke3{
+    position: absolute;
+    top: 33vw;
+    right: 1vw;
+    opacity: 40%;
+}
+
+.ytvid{
+    padding-top: 10vh;
+}
